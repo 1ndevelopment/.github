@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 Welcome to the official 1ndevelopment Github Repository index
 
