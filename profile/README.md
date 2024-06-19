@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Welcome to the official 1ndevelopment Github Repository index
+Welcome to the 1ndevelopment Github Repository index
 
 <!--
 
