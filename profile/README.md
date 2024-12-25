@@ -1,8 +1,8 @@
+Welcome to the official
 ![1nDevelopment Logo](https://files.1ndev.com/api/public/dl/HMtEPl0o/images/1ndevelopment.io.ascii.logo.white.png)
+Github Repository index
 
 ## Hello there 👋
-
-Welcome to the 1ndevelopment Github Repository index
 
 <!--
 
