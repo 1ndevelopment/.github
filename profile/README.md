@@ -1,3 +1,5 @@
+[1ndevelopment.io.ascii.logo.white.png](https://files.1ndev.com/api/public/dl/HMtEPl0o/images/1ndevelopment.io.ascii.logo.white.png)
+
 ## Hello there 👋
 
 Welcome to the 1ndevelopment Github Repository index
