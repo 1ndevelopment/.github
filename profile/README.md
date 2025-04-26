@@ -3,6 +3,8 @@ official Github Repository index.
 
 Alt source: https://git.1ndev.com/
 
+Read dis before u submit an issue:
+https://wiki.1ndev.com/en/about-us
 
 <!--
 
