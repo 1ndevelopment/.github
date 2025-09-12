@@ -4,7 +4,6 @@ official Github Repository index.
 Read dis before u submit an issue:
 https://wiki.1ndev.com/en/about-us
 
-Forum: https://1ndevelopment.com
 Alt source: https://git.1ndev.com/1ndevelopment
 
 <!--
