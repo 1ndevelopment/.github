@@ -1,9 +1,6 @@
 ![1nDevelopment Logo](https://files.1ndev.com/api/public/dl/HMtEPl0o/images/1ndevelopment.io.ascii.logo.white.png)\
 official Github Repository index. 
 
-Read dis before u submit an issue:
-https://wiki.1ndev.com/en/about-us
-
 Alt source: https://git.1ndev.com/1ndevelopment
 
 <!--
