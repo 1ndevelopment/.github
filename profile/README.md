@@ -13,7 +13,7 @@
     <a href="https://gist.github.com/1ndev-ui" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gists-lightgrey?logo=github" alt="Gists"/>
     </a>
-    <a href="https://git.1ndev.com/1ndevelopment" target="_blank" rel="noopener noreferrer">
+    <a href="https://codeberg.org/1ndevelopment" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Codeberg-blue?logo=codeberg" alt="Alt source" />
     </a>
   </p>
