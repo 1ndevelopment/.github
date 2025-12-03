@@ -11,10 +11,10 @@
 -->
     <img src="https://img.shields.io/github/stars/1ndevelopment" alt="Org's stars">
     <a href="https://gist.github.com/1ndev-ui" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Gists-1ndev--ui-lightgrey?logo=github" alt="Gists"/>
+      <img src="https://img.shields.io/badge/Gists-lightgrey?logo=github" alt="Gists"/>
     </a>
     <a href="https://git.1ndev.com/1ndevelopment" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Alt--source-git.1ndev-blue?logo=gitlab" alt="Alt source" />
+      <img src="https://img.shields.io/badge/Codeberg-blue?logo=codeberg" alt="Alt source" />
     </a>
   </p>
 </div>
