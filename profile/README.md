@@ -4,17 +4,14 @@
     <br />
     Official Github Repository index.
     <br /><br />
-<!--
     <a href="https://stats.uptimerobot.com/jdIPbMZcFs" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/uptimerobot/status/m801761334-5b92fad72db01dc2ed886b40" alt="Uptime status">
     </a>
--->
+    <img src="https://img.shields.io/maintenance/yes/2025" alt="Maintained">
     <img src="https://img.shields.io/github/stars/1ndevelopment" alt="Org's stars">
     <a href="https://gist.github.com/1ndev-ui" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gists-lightgrey?logo=github" alt="Gists"/>
     </a>
-    <a href="https://codeberg.org/1ndevelopment" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Codeberg-blue?logo=codeberg" alt="Alt source"/>
-    </a>
-  </p>
+  </p> 
+    <p align="center"> We have transitioned code repositories, check us out on <a href="https://codeberg.org">Codeberg!</a> </p> 
 </div>
