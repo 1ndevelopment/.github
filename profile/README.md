@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <img src="https://files.1ndev.com/images/logos/1ndevelopment/1ndev-logo-refreshed.png" alt="Light mode image" class="light-mode" width="300" />
+    <img src="https://files.1ndev.com/images/1ndevelopment/1ndev-logo-refreshed.png" alt="Light mode image" class="light-mode" width="300" />
     <br />
     Official Github Repository index.
     <br /><br />
