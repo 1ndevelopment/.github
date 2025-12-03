@@ -13,5 +13,5 @@
       <img src="https://img.shields.io/badge/Gists-lightgrey?logo=github" alt="Gists"/>
     </a>
   </p> 
-    <p align="center"> We have transitioned code repositories, check us out on <a href="https://codeberg.org">Codeberg!</a> </p> 
+    <p align="center"> We have transitioned code repositories, check us out on <a href="https://codeberg.org/1ndevelopment">Codeberg!</a> </p> 
 </div>
