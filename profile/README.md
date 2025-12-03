@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Gists-lightgrey?logo=github" alt="Gists"/>
     </a>
     <a href="https://codeberg.org/1ndevelopment" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Codeberg-blue?logo=codeberg" alt="Alt source" />
+      <img src="https://img.shields.io/badge/Codeberg-blue?logo=codeberg" alt="Alt source"/>
     </a>
   </p>
 </div>
