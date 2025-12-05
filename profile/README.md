@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/uptimerobot/status/m801761334-5b92fad72db01dc2ed886b40" alt="Uptime status">
     </a>
     <a href="https://1ndev.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Hosted%20In%20Germany-blue?style=flat-square" alt="German Hosted">
+      <img src="https://img.shields.io/badge/Self%20Hosted-blue?style=flat-square" alt="German Hosted">
     </a>
     <a href="https://donate.1ndev.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Donate-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin">
