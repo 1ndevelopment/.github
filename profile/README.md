@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <a href="https://codeberg.org/1ndevelopment" rel="noopener noreferrer">
+    <a href="https://github.com/1ndevelopment" rel="noopener noreferrer">
       <img src="https://files.1ndev.com/images/1ndevelopment/1ndev-logo-refreshed.png" alt="Light mode image" class="light-mode" width="300" />
     </a>
     <br />
