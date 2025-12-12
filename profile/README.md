@@ -4,7 +4,7 @@
       <img src="https://files.1ndev.com/images/1ndevelopment/1ndev-logo-refreshed.png" alt="Light mode image" class="light-mode" width="300" />
     </a>
     <br />
-    Official Codeberg Repository Index
+    Official Github Repository Index
     <br /><br />
     <a href="https://stats.uptimerobot.com/jdIPbMZcFs" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/uptimerobot/status/m801761334-5b92fad72db01dc2ed886b40" alt="Uptime status">
