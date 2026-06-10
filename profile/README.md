@@ -17,7 +17,7 @@
     <a href="https://gist.github.com/1ndev-ui" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gists-lightgrey?logo=github" alt="Gists"/>
     </a>
-    <img src="https://img.shields.io/github/stars/1ndevelopment" alt="Org's stars">
+    <img src="https://img.shields.io/github/stars/1ndevelopment?cacheSeconds=86400" alt="Org's stars">
   </p> 
 </div>
     <p align="center"> We have migrated our code repositories, check us out on <a href="https://codeberg.org/1ndevelopment">Codeberg!</a> </p> 
