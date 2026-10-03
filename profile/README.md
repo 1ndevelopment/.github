@@ -1,7 +1,8 @@
-<div>
+<div align="center">
+
   <p align="center">
     <a href="https://github.com/1ndevelopment" rel="noopener noreferrer">
-      <img src="https://files.1ndev.com/images/1ndevelopment/1ndev-logo-refreshed.png" alt="Light mode image" class="light-mode" width="300" />
+      <img src="https://files.1ndev.com/images/1ndevelopment/1ndev-logo-refreshed.png" alt="1ndevelopment logo" width="300" />
     </a>
     <br />
     Official Github Repository Index
@@ -14,11 +15,21 @@
     </a>
     <a href="https://donate.1ndev.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Donate-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin">
+    </a>
     <a href="https://gist.github.com/1ndev-ui" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Gists-lightgrey?logo=github" alt="Gists"/>
+      <img src="https://img.shields.io/badge/Gists-lightgrey?logo=github" alt="Gists">
     </a>
     <img src="https://img.shields.io/github/stars/1ndevelopment?cacheSeconds=86400" alt="Org's stars">
-  </p> 
-</div>
-    <p align="center"> We have migrated our code repositories, check us out on <a href="https://codeberg.org/1ndevelopment">Codeberg!</a> </p> 
+  </p>
+
+  <p align="center">
+    <img alt="Streak stats" height="170"
+      src="https://streak-stats.demolab.com/?user=1ndev-ui&theme=dark&hide_border=true" />
+  </p>
+
+  <p align="center">
+    We have migrated a majority of our code repositories, check us out on
+    <a href="https://codeberg.org/1ndevelopment">Codeberg!</a>
+  </p>
+
 </div>
