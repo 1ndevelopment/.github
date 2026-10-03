@@ -28,6 +28,11 @@
   </p>
 
   <p align="center">
+    <img alt="Contribution graph" width="100%"
+      src="https://ghchart.rshah.org/1ndev-ui" />
+  </p>
+
+  <p align="center">
     We have migrated a majority of our code repositories, check us out on
     <a href="https://codeberg.org/1ndevelopment">Codeberg!</a>
   </p>
