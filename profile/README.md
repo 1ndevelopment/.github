@@ -23,11 +23,6 @@
   </p>
 
   <p align="center">
-    <img alt="Streak stats" height="170"
-      src="https://streak-stats.demolab.com/?user=1ndev-ui&theme=dark&hide_border=true" />
-  </p>
-
-  <p align="center">
     <img alt="Contribution graph" width="100%"
       src="https://ghchart.rshah.org/1ndev-ui" />
   </p>
